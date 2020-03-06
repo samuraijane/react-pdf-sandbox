@@ -1,0 +1,23 @@
+{
+  "name": "react-pdf-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuraijane/react-pdf-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuraijane/react-pdf-sandbox/issues"
+  },
+  "homepage": "https://github.com/samuraijane/react-pdf-sandbox#readme",
+  "dependencies": {
+    "@react-pdf/renderer": "^1.6.8"
+  }
+}
