@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/samuraijane/react-pdf-sandbox#readme",
   "dependencies": {
-    "@react-pdf/renderer": "^1.6.8"
+    "@react-pdf/renderer": "^1.6.8",
+    "dotenv-webpack": "^1.7.0",
+    "express": "^4.17.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
   }
 }
